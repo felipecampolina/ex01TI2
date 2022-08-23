@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class EX01 {
 	public static void main (String args[]){
-		public Scanner sc = new Scanner(System.in);
+		public static Scanner sc = new Scanner(System.in);
 		//Declaracao de variaveis
 		int num1, num2, soma;
 		//Leituras
