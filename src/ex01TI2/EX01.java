@@ -1,9 +1,9 @@
 package ex01TI2;
 import java.util.Scanner;
 
-public class EX01 {
+class EX01 {
 	public static void main (String args[]){
-		Scanner sc = new Scanner(System.in);
+		public Scanner sc = new Scanner(System.in);
 		//Declaracao de variaveis
 		int num1, num2, soma;
 		//Leituras
